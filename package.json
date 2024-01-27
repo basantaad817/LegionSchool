@@ -1,7 +1,7 @@
 {
-  "name": "shelly",
+  "name": "legion",
   "version": "1.0.0",
-  "description": "Shelly – HTML School Template",
+  "description": "legion – HTML School Template",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
